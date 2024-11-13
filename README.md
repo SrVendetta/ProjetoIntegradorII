@@ -14,6 +14,10 @@ Para que essa cadeira possa ser controlada pelo usuário e enviar dados via rede
 
 O **ESP32** é um microcontrolador de baixo custo e altamente eficiente, desenvolvido pela **Espressif**. Ele é extremamente versátil, oferecendo suporte a comunicação sem fio, como **Bluetooth** e **Wi-Fi**, e uma variedade de protocolos de comunicação que atendem às necessidades deste projeto.
 
+![Figura 1 - Configuração de pinagem da ESP32](ESP32-Pinout.jpeg)
+
+![Figura 2 - Esquematico de pontos de conexão da ESP32](_EsquemáticoEsp32.png)
+
 ### Comunicação
 
 #### Comunicação Serial
